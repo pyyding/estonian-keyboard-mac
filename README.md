@@ -9,7 +9,7 @@ Ava terminal ja täida lüngad:
 sudo mv /kus/on/fail/EstonianDev.bundle /Library/Keyboard\ Layouts/
 
 näiteks:
-sudo mv ~/Downloads/EstonianDev.bundle  /Library/Keyboard\ Layouts/
+sudo mv ~/Downloads/EstonianDev.bundle /Library/Keyboard\ Layouts/
 ```
 2. Tee arvutile restart
 3. Ava System Preferences --> Keyboard --> Input Sources --> Vajuta vasakul asuva listi all olevat "+" märki
