@@ -6,7 +6,7 @@ MacOS-ile mõeldud eesti keele klaviatuuri paigutus (" ´ " ning " ^ " märkideg
 1. Tõsta "EstonianDev.bundle" fail "/Library/Keyboard\ Layouts/" kausta 
 ```
 Ava terminal ja täida lüngad:
-sudo mv /kus/on/fail/EstonianDev.bundle /Librart/Keyboard\ Layouts/
+sudo mv /kus/on/fail/EstonianDev.bundle /Library/Keyboard\ Layouts/
 
 näiteks:
 sudo mv ~/Downloads/EstonianDev.bundle  /Library/Keyboard\ Layouts/
