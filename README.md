@@ -2,6 +2,7 @@
 MacOS-ile mõeldud eesti keele klaviatuuri paigutus (" ´ " ning " ^ " märkidega)
 
 ## Paigaldamine
+0. Lae alla "EstonianDev.bundle"
 1. Tõsta "EstonianDev.bundle" fail "/Library/Keyboard\ Layouts/" kausta 
 ```
 Ava terminal 
