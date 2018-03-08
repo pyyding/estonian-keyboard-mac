@@ -15,6 +15,7 @@ sudo mv EstonianDev.bundle  /Library/Keyboard\ Layouts/
 ## Kasutamine
 
 " ´ " *backtick*i trükkimiseks vajuta *backspace*ist vasakul asuvat nuppu
+
 " ^ " *carret*i trükkimiseks vajuta ALT+Ä
 
 ***
