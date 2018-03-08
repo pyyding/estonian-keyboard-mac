@@ -1,4 +1,4 @@
-# Eesti keele klaviatuuri paigutus arendajatele vajalike muudatustega
+# Eesti keele klahvipaigutus arendajale
 MacOS-ile mõeldud eesti keele klaviatuuri paigutus (" ´ " ning " ^ " märkidega)
 
 ## Paigaldamine
