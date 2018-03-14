@@ -1,5 +1,5 @@
 # Eesti keele klahvipaigutus arendajale
-MacOS-ile mõeldud eesti keele klaviatuuri paigutus (" ´ " ning " ^ " märkidega)
+MacOS-ile mõeldud eesti keele klaviatuuri paigutus (" ` " ning " ^ " märkidega)
 
 ## Paigaldamine
 0. Lae alla "EstonianDev.bundle"
@@ -17,7 +17,7 @@ sudo mv ~/Downloads/EstonianDev.bundle /Library/Keyboard\ Layouts/
 
 ## Kasutamine
 
-" ´ " *backtick*i trükkimiseks vajuta *backspace*ist vasakul asuvat nuppu
+" ` " *backtick*i trükkimiseks vajuta *backspace*ist vasakul asuvat nuppu
 
 " ^ " *carret*i trükkimiseks vajuta ALT+Ä
 
