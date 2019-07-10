@@ -19,7 +19,7 @@ sudo mv ~/Downloads/EstonianDev.bundle /Library/Keyboard\ Layouts/
 
 " ` " *backtick*i trükkimiseks vajuta *backspace*ist vasakul asuvat nuppu
 
-" ^ " *carret*i trükkimiseks vajuta ALT+Ä
+" ^ " *carret*i trükkimiseks vajuta Option + Ä
 
 ***
 
